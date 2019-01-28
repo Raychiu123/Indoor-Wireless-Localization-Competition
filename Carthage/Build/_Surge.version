@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.0.0",
+  "iOS" : [
+    {
+      "name" : "Surge",
+      "hash" : "90d0c0018f75db3d4dbb6ba7907ee55a66fe557771676ce4b04b08cdacd42003"
+    }
+  ]
+}

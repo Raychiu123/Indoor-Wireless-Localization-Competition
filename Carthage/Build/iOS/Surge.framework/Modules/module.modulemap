@@ -1,0 +1,11 @@
+framework module Surge {
+  umbrella header "Surge.h"
+
+  export *
+  module * { export * }
+}
+
+module Surge.Swift {
+    header "Surge-Swift.h"
+    requires objc
+}
